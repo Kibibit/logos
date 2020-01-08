@@ -1,5 +1,11 @@
 [
   {
+  "name": "winston",
+    "shortname" "winston",
+    "url": "https://www.winston.com",
+    "files": ["winston.svg"]
+  },
+  {
     "name": ".NET",
     "shortname": "dotnet",
     "url": "http://www.microsoft.com/net",
